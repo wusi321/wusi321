@@ -2,15 +2,10 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+SulCunFur;Embedded+%26+Robotics+Developer;ROS2+%7C+MuJoCo+%7C+Gazebo+%7C+Embedded+Linux)](https://git.io/typing-svg)
 
-  <a href="https://github.com/wusi321">
-    <img src="https://img.shields.io/badge/GitHub-@wusi321-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:3299459360@qq.com">
-    <img src="https://img.shields.io/badge/QQ_Mail-3299459360@qq.com-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white" />
-  </a>
-  <a href="mailto:lcfv.emm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lcfv.emm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/%E8%BD%AE%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-Robotics-2F81F7?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91-Embedded-FF6B35?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-System-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-CAD-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
 
 </div>
 
@@ -94,6 +89,7 @@ I have hands-on experience across the robotics development workflow, including m
 - Robot simulation, model conversion, and sim-to-real workflow
 - Linux and embedded Linux engineering practice
 - Full-process robotics development from mechanical design to software deployment
+- Writing and refining practical experience notes / 正在编写和完善一些经验记录，希望对你有用
 
 ---
 
@@ -102,6 +98,7 @@ I have hands-on experience across the robotics development workflow, including m
 <p>
   <a href="mailto:3299459360@qq.com" target="_blank"><img src="https://img.shields.io/badge/QQ_Mail-3299459360@qq.com-red?style=flat&logo=tencentqq&logoColor=white" height="25px"></a>&nbsp;
   <a href="mailto:lcfv.emm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-lcfv.emm@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="25px"></a>&nbsp;
+  <img src="https://img.shields.io/badge/WeChat-LcfNotFound-07C160?style=flat&logo=wechat&logoColor=white" height="25px">&nbsp;
   <a href="https://github.com/wusi321" target="_blank"><img src="https://img.shields.io/badge/GitHub-wusi321-181717?style=flat&logo=github&logoColor=white" height="25px"></a>
 </p>
 
