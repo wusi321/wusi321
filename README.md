@@ -108,7 +108,7 @@ I have hands-on experience across the robotics development workflow, including m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wusi321&theme=tokyonight&hide_border=false" alt="SulCunFur's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=wusi321&theme=tokyonight&hide_border=false" alt="SulCunFur's GitHub Streak" />
 </p>
 
 ---
